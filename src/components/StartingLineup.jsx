@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import soccerField from '../assets/soccerField.svg';
 
 const StartingLineup = ({starters, changeStarter}) => {
   return (
@@ -17,6 +18,7 @@ const StartingLineup = ({starters, changeStarter}) => {
             </article>
           ))
         }
+        <img src={soccerField} alt={"Soccer Field"}/>
       </div>
     </section>
   );

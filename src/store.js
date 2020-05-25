@@ -15,7 +15,47 @@ const initialState = {
     id: 3,
     name: "Branco",
     avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
-  }
+  },
+  {
+    id: 4,
+    name: "Cafu",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 5,
+    name: "Aldair",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 6,
+    name: "Taffarel",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 7,
+    name: "Dunga",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 8,
+    name: "Zinho",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 9,
+    name: "Marcio Santos",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 10,
+    name: "Mazinho",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
+  {
+    id: 11,
+    name: "Mauro Silva",
+    avatar: "https://api.adorable.io/avatars/80/abott@adorable.png"
+  },
 
 ],
   startingLineup: [],
